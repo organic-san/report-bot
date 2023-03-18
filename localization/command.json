@@ -1,0 +1,26 @@
+{
+    "default": {
+        "accountCreatedTime": "This is the account creation time of **%VAR%**: ",
+        "DateShowsString": "%VAR%/%VAR%/%VAR%",
+        "WeekMonday": "Monday",
+        "WeekTuesday": "Tuesday",
+        "WeekWednesday": "Wednesday",
+        "WeekThursday": "Thursday",
+        "WeekFriday": "Friday",
+        "WeekSaturday": "Saturday",
+        "WeekSunday": "Sunday",
+        "TimeShowString": "%VAR%:%VAR%:%VAR% (UTC%VAR%%VAR%)"
+    }, 
+    "zh-TW": {
+        "accountCreatedTime": "這是 **%VAR%** 創立帳號的時間：",
+        "DateShowsString": "%VAR%年 %VAR%月 %VAR%日",
+        "WeekMonday": "星期一",
+        "WeekTuesday": "星期二",
+        "WeekWednesday": "星期三",
+        "WeekThursday": "星期四",
+        "WeekFriday": "星期五",
+        "WeekSaturday": "星期六",
+        "WeekSunday": "星期日",
+        "TimeShowString": "%VAR%點 %VAR%分 %VAR%秒 (UTC%VAR%%VAR%)"
+    }
+}
